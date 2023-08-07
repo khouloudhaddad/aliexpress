@@ -12,5 +12,17 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.1",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@nuxtjs/supabase": "^1.0.2",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@pinia-plugin-persistedstate/nuxt": "^1.1.1",
+    "@pinia/nuxt": "^0.4.11",
+    "@prisma/client": "^5.1.1",
+    "@stripe/stripe-js": "^1.54.2",
+    "nuxt-icon": "^0.5.0",
+    "nuxt-lodash": "^2.5.0",
+    "prisma": "^5.1.1",
+    "stripe": "^12.17.0"
   }
 }
