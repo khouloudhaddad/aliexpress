@@ -65,3 +65,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ### Install dependencies for the project
 
 npm i @nuxtjs/supabase @nuxtjs/tailwindcss nuxt-icon @pinia-plugin-persistedstate/nuxt @pinia/nuxt @prisma/client @stripe/stripe-js nuxt-lodash prisma stripe
+
+npm i pinia -f
